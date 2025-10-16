@@ -35,9 +35,8 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-```
 PAGE - 1
-
+```
 index.html
 
 <!DOCTYPE html>
@@ -200,9 +199,9 @@ style.css
   line-height: var(--heading-line-height);
   font-style: var(--heading-font-style);
 }
-
+```
 PAGE - 2
-
+```
 index.html
 <!DOCTYPE html>
 <html>
@@ -332,9 +331,9 @@ styleguide.css
   --heading-line-height: 120.00000476837158%;
   --heading-font-style: normal;
 }
-
+```
 PAGE - 3
-
+```
 index.html
 
 <!DOCTYPE html>
