@@ -35,10 +35,8 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+PAGE - 1
 ```
-
-```PAGE - 1
-
 index.html
 
 <!DOCTYPE html>
@@ -201,9 +199,9 @@ style.css
   line-height: var(--heading-line-height);
   font-style: var(--heading-font-style);
 }
-
+```
 PAGE - 2
-
+```
 index.html
 <!DOCTYPE html>
 <html>
@@ -333,9 +331,9 @@ styleguide.css
   --heading-line-height: 120.00000476837158%;
   --heading-font-style: normal;
 }
-
+```
 PAGE - 3
-
+```
 index.html
 
 <!DOCTYPE html>
@@ -427,8 +425,6 @@ styleguide.css
 ```
 ## OUTPUT:
 <img width="1218" height="540" alt="Screenshot 2025-10-16 135953" src="https://github.com/user-attachments/assets/b5cced76-fec9-4080-b39a-826124af597e" />
-
-
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
